@@ -1,6 +1,6 @@
 # vue-landing
 #### Demo:
-https://gutnivlad.github.io/vue-landing/
+https://gutnidev.github.io/vue-landing/
 
 ------------
 
